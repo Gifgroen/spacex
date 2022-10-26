@@ -15,7 +15,5 @@ class ViewController: UIViewController {
         self.view.backgroundColor = UIColor.red
         self.title = "Space X"
     }
-
-
 }
 
